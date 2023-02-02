@@ -9,7 +9,7 @@ echo "BBCAP_Team16";
 <br><br>
 <h3>3.2 Write PHP code to display the following message.</h3>
 <?php
-echo "Hellow world ! My name is \"Dammika\"";
+echo "Hello world ! My name is \"David\"";
 ?>
 <br><br>
 <h3>3.3 Write the PHP code in to display the current date.</h3>
